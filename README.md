@@ -36,6 +36,3 @@ Me chamo Pedro Solon, tenho 24 anos e sou natural de João Pessoa, Paraíba. Con
     <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" alt="Excel" title="Excel" width="30" style="padding-right: 10px;" />
     <img src="https://api.iconify.design/simple-icons:powerbi.svg?color=%23f2c811" alt="Power BI" title="Power BI" width="30" style="padding-right: 10px;" />
 </p>
-
-<br/>
-<br/>
