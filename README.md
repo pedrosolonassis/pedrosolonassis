@@ -2,7 +2,7 @@
 
 **`Analista de Dados / Internacionalista`**
 
-Me chamo Pedro Solon, tenho 24 anos e sou natural de João Pessoa, Paraíba. Concluí a graduação de Relações Internacionais pela UEPB e estou migrando para a área de dados. Atualmente, estou cursando Ciência da Computação na UNIPÊ. Sou apaixonado por dados e tecnologia, e e busco atuar na intersecção entre tecnologia, análise de dados e negócios. Tenho focado minha transição de carreira para papéis que traduzem dados em decisões estratégicas.
+Me chamo Pedro Solon, tenho 24 anos e sou natural de João Pessoa, Paraíba. Concluí a graduação de Relações Internacionais pela UEPB e estou migrando para a área de dados. Atualmente, estou cursando Ciência da Computação na UNIPÊ. Sou apaixonado por dados e tecnologia, busco atuar na intersecção entre tecnologia, análise de dados e negócios. Tenho focado minha transição de carreira para papéis que traduzem dados em decisões estratégicas.
 
 <p align="left">
     <!-- LinkedIn -->
