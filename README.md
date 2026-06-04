@@ -118,6 +118,9 @@ Me chamo Pedro Solon, tenho 24 anos e sou natural de João Pessoa, Paraíba. Con
     </linearGradient>
   </defs>
 </svg>
+
+<br/>
+<br/>
       align="left" 
       alt="GitHub Stats" 
       height="200" 
