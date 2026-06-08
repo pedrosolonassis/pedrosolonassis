@@ -32,6 +32,7 @@ Me chamo Pedro Solon, tenho 24 anos e sou natural de João Pessoa, Paraíba. Con
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git" width="30" style="padding-right: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python" width="30" style="padding-right: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" title="SQLite" width="30" style="padding-right: 10px;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="30" style="padding-right: 10px;" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" title="R" width="30" style="padding-right: 10px;" />
     <img src="https://skillicons.dev/icons?i=latex" alt="LaTeX" title="LaTeX" height="30" style="padding-right: 10px;" />
     <img src="https://api.iconify.design/vscode-icons:file-type-excel.svg" alt="Excel" title="Excel" width="30" style="padding-right: 10px;" />
