@@ -23,8 +23,7 @@ Me chamo Pedro Solon, tenho 24 anos e sou natural de João Pessoa, Paraíba. Con
     </a>
 </p>
 
----
-
+#
 
 ### 🤖 Linguagens, Tecnologias e Ferramentas
 
